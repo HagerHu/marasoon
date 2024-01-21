@@ -1,0 +1,28 @@
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "马拉松破三跑者的分享"
+theme="archie"
+copyright = "© Minus Tech"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+	mode="auto"
+	useCDN=false
+	subtitle = "🏃每个跑者的破三之路都不一样，找到它，跑下去🎉"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://github.com/hagerhu"
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/hagerhu"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
