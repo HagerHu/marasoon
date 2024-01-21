@@ -54,14 +54,14 @@ a:hover {
 }
 
 ul {
-  list-style: none;
-  padding-left: 2ch;
+  /* list-style: none; */
+  padding-left: 3ch;
 }
 ul li {
-  text-indent: -2ch;
+  text-indent: 1ch;
 }
 ul > li::before {
-  content: '* ';
+  /* content: '* '; */
   font-weight: bold;
 }
 
