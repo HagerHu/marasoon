@@ -1,8 +1,8 @@
 baseURL = "https://marasoon.com"
 languageCode = "zh-CN"
-title = "马拉松破三跑者的分享"
+title = "很快破三"
 theme="archie"
-copyright = "© Minus Tech"
+copyright = ""
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
