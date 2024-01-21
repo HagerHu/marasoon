@@ -6,6 +6,7 @@ copyright = "© Minus Tech"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
+googleAnalytics = "G-BLPGFLQ3N6"
 
 [params]
 	mode="auto"
