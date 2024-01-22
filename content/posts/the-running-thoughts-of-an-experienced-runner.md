@@ -10,7 +10,7 @@ date: 2024-01-21T12:03:30+08:00
 
 ---
 
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/cCJ4lXhRWr71xyQEXANRwHiatbEsW8tuMOp1eyn69112ia0ibMbUPXCheezwGCEm4n7z9eic2dNsXSiatMiaibKPfegxg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://circle-index.oss-cn-hangzhou.aliyuncs.com/marasoon_experienced_runner.jpeg)
 
 郑重声明  
 
@@ -208,6 +208,6 @@ date: 2024-01-21T12:03:30+08:00
 
 三餐四季五谷杂粮七情六欲，平凡的我们都说人生是一场冒险，对我而言，也许也是对大多数人而言不是什么冒险，而是一股莫之能御的洪流，这洪流裹挟着我们向前，身不由己且无能为力，我们都在选择用不同的方式来对抗这洪流，有幸和老司机选择了同一种“用力奔跑",无疑他是做的最好的那一种人，感谢他的分享也再次祝贺达成阶段目标！
 
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/cCJ4lXhRWr71xyQEXANRwHiatbEsW8tuMJ2X88NdDGp9Tubn4htRG0ARicuURUWDU3yyyhqU6eibqtwKctg75Jqqw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://circle-index.oss-cn-hangzhou.aliyuncs.com/marasoon_experienced_runner_2.jpeg)
 
 [阅读原文：老司机关于的跑步思考](https://mp.weixin.qq.com/s/QxJLJhL1v450UkTvwELZKg)
