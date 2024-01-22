@@ -13,16 +13,6 @@ googleAnalytics = "G-BLPGFLQ3N6"
 	useCDN=false
 	subtitle = "🏃每个跑者的破三之路都不一样，找到它，跑下去🎉"
 
-[[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://github.com/hagerhu"
-
-[[params.social]]
-name = "Github"
-icon = "github"
-url = "https://github.com/hagerhu"
-
 [[menu.main]]
 name = "Home"
 url = "/"
