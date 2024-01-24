@@ -154,7 +154,7 @@ image: "https://circle-index.oss-cn-hangzhou.aliyuncs.com/marathon_sub-3.jpeg"
 
 ## 关于课表  
 
-> 划重点：所有的课表、训练方式都不能完全适用于所有人，最重要的是找到适合自己的。
+划重点：所有的课表、训练方式都不能完全适用于所有人，最重要的是找到适合自己的。
 
 ### 讲一讲我跑过的课表们
 
