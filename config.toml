@@ -2,9 +2,8 @@ baseURL = "https://marasoon.com"
 languageCode = "zh-CN"
 defaultContentLanguage = "zh-cn"
 title = "很快破三"
-subtitle = "🏃每个跑者的破三之路都不一样，找到它，跑下去🎉"
 theme="even"
-copyright = ""
+copyright = "🏃每个跑者的破三之路都不一样，找到它，跑下去🎉"
 
 googleAnalytics = "G-BLPGFLQ3N6"
 enableEmoji = true
