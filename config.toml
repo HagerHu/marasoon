@@ -21,14 +21,20 @@ hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否�
 paginate = 10                                              # 首页每页显示的文章数
 disqusShortname = ""      # disqus_shortname
 
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+#[[menu.main]]
+#name = "Home"
+#url = "/"
+#weight = 1
 
 [[menu.main]]             # config your menu              # 配置目录
-  name = "私兔"
+  name = "🥇记录"
   weight = 10
+  identifier = "record"
+  url = "https://record.marasoon.com"
+
+[[menu.main]]             # config your menu              # 配置目录
+  name = "🐰私兔"
+  weight = 20
   identifier = "rabbit"
   url = "https://rabbit.marasoon.com"
 
@@ -36,7 +42,7 @@ weight = 1
   name = "跑友"
   #github = "https://github.com/hagerhu"
   #twitter = "@hagerhu"
-  sitename = "很快破三"
+  sitename = "马拉松"
   #og_image = "/images/og.png"
 
 [sitemap]                 # essential                     # 必需
