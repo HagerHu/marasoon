@@ -1,9 +1,9 @@
 baseURL = "https://marasoon.com"
 languageCode = "zh-CN"
 defaultContentLanguage = "zh-cn"
-title = "全马破三"
+title = "马拉松"
 theme="even"
-copyright = "🏃每个跑者的破三之路都不一样🏃"
+copyright = "🏃跑友社区👟"
 subtitle="🎉 找到它，跑下去 🎉"
 
 googleAnalytics = "G-BLPGFLQ3N6"
