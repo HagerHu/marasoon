@@ -26,6 +26,12 @@ name = "Home"
 url = "/"
 weight = 1
 
+[[menu.main]]             # config your menu              # 配置目录
+  name = "私兔"
+  weight = 10
+  identifier = "rabbit"
+  url = "rabbit.marasoon.com"
+
 [author]                  # essential                     # 必需
   name = "跑友"
   #github = "https://github.com/hagerhu"
